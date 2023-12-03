@@ -55,3 +55,4 @@ cover/
 *.mo
 *.pot
 
+.env

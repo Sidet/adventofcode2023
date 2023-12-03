@@ -56,3 +56,6 @@ cover/
 *.pot
 
 .env
+
+# VS Code settings
+.vscode
